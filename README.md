@@ -3,6 +3,7 @@
 I’m Magnus Mårtensson :bowtie:.
 
 - About me: <a href="https://about.me/noopman" target="_blank">https://about.me/noopman</a>
+- [https://about.me/noopman](https://about.me/noopman){:target="_blank"}
 - I’m on Mastodon <a rel="me" href="https://hachyderm.io/@noopman">https://hachyderm.io/@noopman</a>.
 - I’m on Twitter https://twitter.com/noopman
 - I’m on LinkedIn https://www.linkedin.com/in/noopman/
