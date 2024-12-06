@@ -2,6 +2,7 @@
 
 I’m Magnus Mårtensson :bowtie:.
 
+- My site: https://noopman.com/.
 - About me: https://about.me/noopman/.
 - I’m on Bluesky https://bsky.app/profile/noopman.com/
 - I’m on Mastodon https://hachyderm.io/@noopman/.
